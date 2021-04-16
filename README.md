@@ -6,15 +6,21 @@ You can mention the quantity of food items in front of the item name. It will au
 Following are some sample pictures
 
 
+
+
 * Interface of Application 
 
 ![Capture1](https://user-images.githubusercontent.com/78878627/115073883-93a39400-9f16-11eb-8f96-16fe5cc2f9aa.PNG)
 
 
 
+
+
 * You can simply enter quantity of items you want to purchase
 
 ![Capture2](https://user-images.githubusercontent.com/78878627/115074077-d36a7b80-9f16-11eb-9b80-52539e32038a.PNG)
+
+
 
 
 
